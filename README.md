@@ -1,2 +1,2 @@
-# SurfingAppUI
-.Net MAUI
+# SurfingAppUI .NET MAUI
+
